@@ -1,0 +1,15 @@
+{
+  "name": "millimeter",
+  "version": "1.0.0",
+  "description": "Currency thousand format",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/yaofly2012/thousandify.git"
+  }
+}
