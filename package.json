@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/liuqiannanyezi/millimeter.git"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
